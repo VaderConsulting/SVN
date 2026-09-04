@@ -16,6 +16,10 @@ SVN is a saved working copy of two Visual Studio 2008 tests: HelloSVN-VBApp (VB.
 
 Open `VS08Test/VS08Test.sln` in Visual Studio 2008 (or later with .NET Framework 3.5 targeting) for HelloSVN-VBApp. Open `WindowsGame1/WindowsGame1.sln` in Visual Studio 2008 with XNA Game Studio 3.1 for the C# Windows game. The two solutions are independent.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 Working copy from Dave Robinson's OneDrive Historical Dev folder `SVN`. Both projects use Visual Studio template defaults: AssemblyCompany Microsoft, Copyright © Microsoft 2009. VS08Test.sln Format Version 10.00 (Visual Studio 2008) includes AnkhSVN SubversionScc; HelloSVN-VBApp targets .NET Framework 3.5 (ProductVersion 9.0.30729). WindowsGame1 targets .NET Framework 3.5 and XNA Framework 3.1 (Windows, x86).
