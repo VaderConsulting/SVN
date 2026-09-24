@@ -22,7 +22,7 @@ Open `VS08Test/VS08Test.sln` in Visual Studio 2008 (or later with .NET Framework
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `SVN`. Both projects use Visual Studio template defaults: AssemblyCompany Microsoft, Copyright © Microsoft 2009. VS08Test.sln Format Version 10.00 (Visual Studio 2008) includes AnkhSVN SubversionScc; HelloSVN-VBApp targets .NET Framework 3.5 (ProductVersion 9.0.30729). WindowsGame1 targets .NET Framework 3.5 and XNA Framework 3.1 (Windows, x86).
+Working copy from my Historical Dev folder `SVN`. Both projects use Visual Studio template defaults: AssemblyCompany Microsoft, Copyright © Microsoft 2009. VS08Test.sln Format Version 10.00 (Visual Studio 2008) includes AnkhSVN SubversionScc; HelloSVN-VBApp targets .NET Framework 3.5 (ProductVersion 9.0.30729). WindowsGame1 targets .NET Framework 3.5 and XNA Framework 3.1 (Windows, x86).
 
 ## License
 
